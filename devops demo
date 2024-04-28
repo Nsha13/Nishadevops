@@ -1,3 +1,6 @@
 RR application has major components
-  slicer
-  harvester
+slicer
+harvester
+logger
+lumberjack
+bundler
